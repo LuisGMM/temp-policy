@@ -1,0 +1,67 @@
+Política de Privacidad
+
+En ruit, valoramos tu privacidad y estamos comprometidos con la protección de tus datos personales. Esta política de privacidad explica cómo recopilamos, utilizamos, compartimos y protegemos tus datos cuando usas nuestras aplicaciones web y móviles. Al utilizar nuestros servicios, aceptas las prácticas descritas en esta política.
+
+1. Información que Recopilamos
+Recopilamos los siguientes tipos de datos personales:
+
+Nombre y Apellidos: Para la creación de cuentas y la identificación.
+Correo Electrónico: Para el envío de notificaciones y comunicaciones relacionadas con tu cuenta.
+Datos de Ubicación: Para ofrecerte resultados de productos relevantes según tu ubicación.
+Información del Dispositivo: Como el modelo del dispositivo, sistema operativo y navegador, para garantizar la compatibilidad con nuestro servicio y mejorar la experiencia del usuario.
+Información de Multi-cuentas (para revendedores SaaS): Incluye los datos mínimos necesarios (correo electrónico, nombre) para permitir la gestión de múltiples cuentas en plataformas como Wallapop y Vinted.
+Adicionalmente, recopilamos:
+
+Datos de Uso: Información sobre cómo interactúas con nuestros servicios (páginas visitadas, funciones utilizadas) para mejorar la plataforma.
+Dirección IP: Para fines de geolocalización, seguridad y análisis.
+Datos de Comportamiento: Seguimiento de tus preferencias y acciones para personalizar la experiencia.
+Información del Navegador/Sistema Operativo: Para mejorar la compatibilidad y el rendimiento en distintos dispositivos.
+2. Cómo Usamos Tus Datos
+Utilizamos tus datos personales para los siguientes fines:
+
+Notificaciones a Usuarios: Para enviarte notificaciones sobre actualizaciones, alertas e información de tu cuenta.
+Análisis: Para analizar los datos de uso y mejorar nuestros servicios y ofertas.
+Soporte al Usuario: Para ayudarte con consultas o problemas relacionados con nuestra plataforma.
+Personalización: Para ofrecerte contenido personalizado basado en tu uso y preferencias.
+No compartimos tus datos personales con terceros, salvo cuando sea necesario para proporcionar nuestros servicios, como se detalla en esta política.
+
+3. Consentimiento y Control del Usuario
+Cookies y Tecnologías de Rastreo: Utilizamos cookies y tecnologías similares para mejorar tu experiencia. Se te presentará un banner para gestionar tu consentimiento para cookies que no sean esenciales para el funcionamiento principal del servicio. Puedes gestionar tus preferencias de cookies a través de la configuración de la app o de tu navegador.
+Gestión de Cuentas: Los usuarios tienen el derecho de eliminar su cuenta y los datos asociados utilizando las funciones disponibles en la app. Además, puedes solicitar la corrección, eliminación o exportación de tus datos personales contactándonos.
+4. Datos de Plataformas de Terceros
+Sin Acuerdos Formales: ruit agrega datos en tiempo real de plataformas como Wallapop, eBay y Vinted. No compartimos ningún dato personal tuyo con estas plataformas, ni tenemos acuerdos formales con ellas.
+Responsabilidad del Usuario: Al utilizar ruit para interactuar con plataformas de terceros, lo haces bajo tu responsabilidad personal. No somos responsables por problemas, disputas o el manejo de datos por parte de estas plataformas. Es tu responsabilidad cumplir con los términos y condiciones de dichas plataformas.
+5. Retención de Datos
+Conservamos tus datos personales mientras sea necesario para proporcionarte nuestros servicios o según lo exija la ley. En términos generales:
+
+Los datos de cuenta se conservan por hasta 5 años después de tu última actividad como usuario.
+Los datos de las cuentas múltiples para revendedores se conservan por hasta 5 años.
+Los datos relacionados con el procesamiento de pagos son gestionados por servicios de terceros (e.g., Google Play Store y RevenueCat).
+Puedes solicitar la eliminación de tu cuenta o datos personales en cualquier momento utilizando las funciones disponibles en la app o contactándonos.
+
+6. Seguridad de los Datos
+Tomamos medidas de seguridad adecuadas para proteger tus datos, que incluyen:
+
+Cifrado de los datos durante su transmisión y almacenamiento.
+Cortafuegos para proteger nuestros sistemas.
+Controles de Acceso para garantizar que solo el personal autorizado puede acceder a datos sensibles.
+Auditorías de Seguridad Regulares para revisar y corregir posibles vulnerabilidades en nuestro sistema.
+7. Privacidad de los Menores
+Nuestros servicios no están dirigidos a personas menores de 18 años. No recopilamos ni procesamos conscientemente datos de menores.
+
+8. Tus Derechos
+Como usuario, tienes los siguientes derechos respecto a tus datos:
+
+Derecho a acceder a tus datos personales.
+Derecho a solicitar la corrección de datos inexactos.
+Derecho a solicitar la eliminación de tus datos.
+Derecho a oponerte al tratamiento de tus datos para fines específicos, como el marketing.
+Para ejercer cualquiera de estos derechos, puedes contactarnos en [correo de contacto].
+
+9. Cambios en Esta Política de Privacidad
+Podemos actualizar esta política de privacidad periódicamente. Los cambios se publicarán en nuestro sitio web y aplicaciones móviles. El uso continuo de nuestros servicios después de dichas modificaciones constituye la aceptación de los términos actualizados.
+
+Contacto
+Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en:
+
+Correo electrónico: contact@ruit.es
